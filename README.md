@@ -30,3 +30,13 @@ _(replace with your actual link after enabling Pages)_
 ---
 
 ## 📁 Project Structure
+## 🧪 How to Use
+
+1. **Fork or clone this repo**
+
+```bash
+git clone https://github.com/yourusername/tonk-landing.git
+cd tonk-landing
+git add .
+git commit -m "Customize $TONK landing page"
+git push origin main
