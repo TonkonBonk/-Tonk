@@ -1,42 +1,95 @@
-# 🐾 $TONK – Bonk Goes Feral
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" alt="$TONK - Bonk Goes Feral" width="300"/>
+</p>
 
-Welcome to the official landing page for **$TONK**, the meme coin powered by chaos, cold cuts, and moonlight. Bonk was just a good boy... until the midnight snacks hit different.
+<h1 align="center">
+  🐾 $TONK — Bonk Goes Feral
+</h1>
 
-![TONK](https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif)
-
-## 🚀 Live Website
-> 🌐 [View Live on GitHub Pages](https://yourusername.github.io/tonk-landing/)  
-_(replace with your actual link after enabling Pages)_
+<p align="center">
+  <strong>Midnight struck. The cold cuts called. Bonk snapped.</strong><br />
+  He’s not fetching. He’s not loyal. He’s feral. He’s $TONK.
+</p>
 
 ---
 
-## 🧠 Concept
+## 🎯 Live Website
 
-> "Bonk was just a good boy...  
+👉 **[tonkcoin.xyz](https://tonkcoin.xyz)** (custom domain)  
+OR  
+👉 **[View on GitHub Pages](https://yourusername.github.io/tonk-landing/)**  
+_(Replace with your actual URLs)_
+
+---
+
+## 🎨 Theme
+
+A **cyberpunk meme coin** powered by chaos and snacks.  
+With bold yellow, blood red, and deep shadow gradients — this site screams **unhinged dog energy**.
+
+---
+
+## 🧩 Features
+
+🟡 **Connect Wallet** – MetaMask & WalletConnect  
+🟥 **Buy on Uniswap** – CTA to trade $TONK  
+📈 **Chart Integration** – DexScreener, DexTools  
+🖼️ **GIF Hero Banner** – Feral Bonk in full moonlight  
+📱 **Responsive Design** – Built for degens on mobile
+
+---
+
+## 🛠 Built With
+
+- 🔥 HTML + CSS (custom theme)
+- ⚡ JavaScript (Ethers.js + Web3Modal)
+- 🐙 Hosted via GitHub Pages
+
+---
+
+## 📁 File Structure
+## 🧠 The Lore
+
+> Bonk was just a good boy...  
 > Until he found the leftovers.  
 > Cold cuts. Moonlight. Midnight.  
 > Now he’s not fetching — he’s feral.  
-> He’s $TONK."
+> He’s $TONK.
+
+$TONK is an unapologetically chaotic meme coin project.  
+No roadmap. No leash. Just vibes.
 
 ---
 
-## 🛠 Features
+## 🔧 Custom Domain Setup (Optional)
 
-- ⚡ Meme-styled responsive design
-- 📈 Chart + Buy links
-- 🔗 Web3 “Connect Wallet” button (MetaMask + WalletConnect)
-- 🦊 Built with vanilla HTML, CSS, and JavaScript (no frameworks)
+To use `tonkcoin.xyz`:
+
+1. Add a `CNAME` file with:  
+3. Enable it in GitHub > Settings > Pages > Custom Domain
 
 ---
 
-## 📁 Project Structure
-## 🧪 How to Use
+## 🐾 Contribute
 
-1. **Fork or clone this repo**
+Want to help TONK dominate the moonlight?  
+- Open a pull request
+- Add new art, meme tools, or integrations
+- Suggest UI changes
 
-```bash
-git clone https://github.com/yourusername/tonk-landing.git
-cd tonk-landing
-git add .
-git commit -m "Customize $TONK landing page"
-git push origin main
+> The pack always eats together.
+
+---
+
+## ⚠️ Disclaimer
+
+This is a **meme coin website** — for fun and community engagement.  
+Not financial advice. Not an investment. Just chaos and cold cuts.
+
+---
+
+<p align="center">
+🌕 Feral Forever • Made by Bonk<br />
+<strong>#TONK</strong> • <em>Let the dog cook.</em>
+</p>
